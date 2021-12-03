@@ -1,6 +1,6 @@
 # flutter_ibap
 
-A new Flutter application.
+A new Flutter application whichnis live on GooglePlay store with 100k+ Downloads.
 
 ## Getting Started
 
