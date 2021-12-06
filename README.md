@@ -1,4 +1,4 @@
-# Laws
+# Laws Of
 
 A Flutter application with 100k+ downloads  on GooglePlay store.
 
