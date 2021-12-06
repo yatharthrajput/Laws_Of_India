@@ -1,4 +1,4 @@
-# Laws Of
+# Laws Of India
 
 A Flutter application with 100k+ downloads  on GooglePlay store.
 
