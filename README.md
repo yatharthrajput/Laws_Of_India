@@ -1,6 +1,6 @@
 # flutter_ibap
 
-AFlutter application with 100k+ downloads  on GooglePlay store.
+A Flutter application with 100k+ downloads  on GooglePlay store.
 
 ## Getting Started
 
